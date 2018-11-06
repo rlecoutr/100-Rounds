@@ -1,0 +1,32 @@
+Lvl 1-9 : aperçu des types les plus simples (lignes droites, diagonales, speeders)
+Lvl 10 : premier boss -> Envois quelques lignes droites et 5 trucs à attraper pour le battre
+Lvl 11-19 : Apparition des speeders/Paraboles, mix de tout
+
+
+
+
+
+
+
+
+
+Types des ennemis :
+
+( x=0 -> normal, x=1 -> speeder )
+
+0x : descend
+1x : monte
+2x : va vers la droite
+3x : va vers la gauche
+4x : diagonale Haut-Gauche -> Bas-Droite
+5x : diagonale Bas-Droite -> haut-Gauche
+6x : diagonale Bas-Gauche -> Haut-Droite
+7x : diagonale Haut-Droite -> Bas-gauche
+
+
+
+101 : Premier Boss
+1010 : Merdouille bleues à attraper que lance le boss
+
+
+
