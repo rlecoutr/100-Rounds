@@ -1,6 +1,6 @@
 # 100-Rounds
 
-This old game made for fun was made while learning Python to experience with the language. The goal is to progress through the rounds by dodging the incoming projectiles, with a boss every 10 rounds.
+This old game made for fun was created while learning Python to experience with the language. The goal is to progress through the rounds by dodging the incoming projectiles, with a boss every 10 rounds.
 This game is not finished (at all), only the 15 first rounds are developped yet.
 
 ## Getting started
